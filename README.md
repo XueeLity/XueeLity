@@ -1,1 +1,1 @@
-<img width="1280" height="853" alt="ChatGPT Image 23 Şub 2026 22_15_49-Photoroom" src="https://github.com/user-attachments/assets/ad8b0861-559e-4c99-aff1-93bf40f940c5" />
+<img width="853" height="1280" alt="baboo" src="https://github.com/user-attachments/assets/8c41c4b1-8f2a-4b20-9d42-731d99f973d2" />
