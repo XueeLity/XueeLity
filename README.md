@@ -1,1 +1,1 @@
-<img width="736" height="981" alt="simsekli" src="https://github.com/user-attachments/assets/c3f91f8e-3285-42d4-abea-aa178d49acaa" />
+<img width="736" height="981" alt="simsekli-Photoroom" src="https://github.com/user-attachments/assets/005db2bc-8576-439f-9155-6896430dc256" />
