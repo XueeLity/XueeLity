@@ -1,5 +1,4 @@
-<h3 align="center">꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</h3>
- <img align="center" src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=red" /> 
+<h3 align="center">꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</h3><img align="center" src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=red" /> 
 </p>
 <img align="1200" height="134" alt="banner (1)-Photoroom" src="https://github.com/user-attachments/assets/0e77475c-8408-4323-9f88-4b2899d8e2d0" />
 <p align="center"> 
