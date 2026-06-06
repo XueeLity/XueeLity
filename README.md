@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/Xueelity&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 <img align="1200" height="134" alt="banner (1)-Photoroom" src="https://github.com/user-attachments/assets/0e77475c-8408-4323-9f88-4b2899d8e2d0" />
 <p align="center"> 
