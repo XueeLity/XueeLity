@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=red" />
 </p>
-<img width="1200" height="134" alt="banner (1)-Photoroom" src="https://github.com/user-attachments/assets/0e77475c-8408-4323-9f88-4b2899d8e2d0" />
+<img align="1200" height="134" alt="banner (1)-Photoroom" src="https://github.com/user-attachments/assets/0e77475c-8408-4323-9f88-4b2899d8e2d0" />
 <p align="center">
 
   ![gameof](https://github.com/user-attachments/assets/77bab0d2-2fc7-4ecd-b9bd-17c21977638c)
