@@ -7,4 +7,4 @@
   
   ![gameof](https://github.com/user-attachments/assets/77bab0d2-2fc7-4ecd-b9bd-17c21977638c)
 <img align="500" height="193" alt="kedy (1)" src="https://github.com/user-attachments/assets/1b699bd5-2b3d-4229-b90b-4fbce947aa8d" />
-<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/1b135ed5-ef81-46a8-bcc7-17e651c820b4" />
+<img width="500" height="100" center="image" src="https://github.com/user-attachments/assets/1b135ed5-ef81-46a8-bcc7-17e651c820b4" />
