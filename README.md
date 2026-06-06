@@ -1,6 +1,6 @@
 <h3 align="center">꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</h3>
 <img width="51" height="29" alt="image" src="https://github.com/user-attachments/assets/34e7137a-ec1b-4fa4-ae6f-221a30573103" />
- <img align="center<img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=red" /> 
+ <img align="center" src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=red" /> 
 <img width="51" height="29" alt="image" src="https://github.com/user-attachments/assets/f75a8300-aa05-4bc8-a10b-61418e671c15" />
 
 </p>
