@@ -1,7 +1,7 @@
-<div align="center"> 
+<div align="center">
   <br>
-<img align="100" height="250" alt="HAZIR DANTE" src="https://github.com/user-attachments/assets/a4e023b2-8554-430d-a979-9bfca95f0bc4" />
-    <br>
+  <img src="<img width="300"alt="HAZIR DANTE"src="https://github.com/user-attachments/assets/18b02d45-6937-4f34-b665-df1afa38e4b5"/>
+  <br>
 </div>
 <p align="center"> 
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
