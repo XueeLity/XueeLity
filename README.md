@@ -1,6 +1,8 @@
 <div align="center">
   <br>
-  <img src="<imgw<img width="300align="250" height="250" alt="HAZIR DANTE" src="https://github.com/user-attachments/assets/054a9592-9a17-40f7-981d-51515b8f0e48" />
+  <img src=<img width="300" height="1350" alt="HAZIR DANTE" src="https://github.com/user-attachments/assets/641f938c-7e7c-4531-b3ba-5fad426f48ba" />
+
+  <br>
 </div>
 <p align="center"> 
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
