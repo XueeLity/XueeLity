@@ -5,7 +5,10 @@
 </p>
 <tr>
 </table>
-<td></td><p align="right"> 
-<td> </td>u can w21 always. im still trying ok??<img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/3565ccd3-8ca2-4cba-906c-5ff5d05ffd1c" /> <td></td>
-<td></td><p align="left"> 
+<p align="right"> 
+im still trying ok?? <td></td><img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/3565ccd3-8ca2-4cba-906c-5ff5d05ffd1c" /> <td></td>
+<p align="left"> 
 <td></td><img align="100" height="200" alt="pembe bi sey pembe" src="https://github.com/user-attachments/assets/2981fcb4-8601-44ec-b2b4-f2cd75565341" /> <td>
+<tr>
+  <table></table>
+</tr>
