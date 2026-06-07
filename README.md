@@ -2,20 +2,10 @@
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=XueeLity&label=visitors!&color=ffc8e5&style=for-the-badge">
-<p align="right"> 
-<table>
-<tr>
-<td width="30%">
-<p align="right"> 
-w2i cnms!
-<p align="right"> 
-</td>
-<p align="right"> 
-<td width="70%">
-<p align="right"> 
-<img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/07410628-bc49-45bd-9667-d4266897524b" width="500">
-<p align="right"> 
-</td>
-</tr>
-</table>
+
+<img align="right>src=<img align="1080" height="1350" alt="NOLAR OL" src="https://github.com/user-attachments/assets/bfd0785b-24bd-4cf2-b372-2a6d2dc672ad" width="220">
+
+Buraya yazı yazıyorum.
+
+<br clear="right">
 
