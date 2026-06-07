@@ -8,7 +8,7 @@
 <img src=<img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/9abaff65-3116-437c-94b2-58fa718bb74e"width="300">
 </td>
 <td><p align="left"> 
-<img src=<img width="100" height="250" alt="pembe bi sey pembe" src="https://github.com/user-attachments/assets/56787bb5-1195-4c55-b01d-a7ff8aad7582"width="300">
+<img src=<img align="100" height="250" alt="pembe bi sey pembe"src="https://github.com/user-attachments/assets/56787bb5-1195-4c55-b01d-a7ff8aad7582"width="300">
 </td>
 </tr>
 </table>
