@@ -6,15 +6,15 @@
 <table>
 <tr>
 <td width="30%">
-
+<p align="right"> 
 w2i cnms!
-
+<p align="right"> 
 </td>
 <p align="right"> 
 <td width="70%">
 <p align="right"> 
 <img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/07410628-bc49-45bd-9667-d4266897524b" width="500">
-
+<p align="right"> 
 </td>
 </tr>
 </table>
