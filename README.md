@@ -12,7 +12,7 @@ w2i cnms!
 
 <td width="30%">
 
-<img src=<img align="200" height="1500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/07410628-bc49-45bd-9667-d4266897524b" width="1500">
+<img align="1000" height="1500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/07410628-bc49-45bd-9667-d4266897524b" width="1500">
 
 </td>
 </tr>
