@@ -1,5 +1,5 @@
 <p align="center"> 
-<img width="1080" height="1350" alt="dantelpmbw" src="https://github.com/user-attachments/assets/7aee6917-84ae-476b-a334-bba04fa702f5" />
+<img align="500" height="500" alt="HAZIR DANTE" src="https://github.com/user-attachments/assets/0c780525-e1e9-4d02-b9cc-8fe4e9b657a6" />
 <p align="center"> 
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
 <p align="center">
