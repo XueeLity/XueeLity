@@ -9,7 +9,7 @@
 <p align="right"> 
 <img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/bfd0785b-24bd-4cf2-b372-2a6d2dc672ad" align="500">
 <p align="left"> 
-  <img align="2000" height="2000" alt="aaaaaaa" src="https://github.com/user-attachments/assets/be5294f8-3ad8-4856-a2ed-5318fbff6034" />
+<img align="200" height="500" alt="hr2" src="https://github.com/user-attachments/assets/fc884e22-2c5a-4281-8485-49e02192b658" />
 
 <span style="color:ffc8e5;">𝓌𝟸𝒾 !! </span>
 <img align="50" height="50" alt="cuki" src="https://github.com/user-attachments/assets/d2290c0d-c111-4f45-a37f-73679f661043" />
