@@ -6,7 +6,8 @@
 <img align="50" height="50" alt="mini2" src="https://github.com/user-attachments/assets/e9ec8c35-6d3e-4cc3-a6b9-1b24ac68abff" />
 
 <p align="center"> 
-<img align="1080" height="1000" alt="DADAAA" src="https://github.com/user-attachments/assets/b05eae60-3797-4045-9a9a-6e4e4d0817f3" />
+<img align="1080" height="1050" alt="ohatm" src="https://github.com/user-attachments/assets/96a0e4c8-1f16-43d5-8880-8b8224433e4d" />
+
 <p align="right"> 
 <img align="200" height="500" alt="NOLAR OL" src="https://github.com/user-attachments/assets/bfd0785b-24bd-4cf2-b372-2a6d2dc672ad" align="500">
 <p align="left"> 
