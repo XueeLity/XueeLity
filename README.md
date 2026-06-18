@@ -9,7 +9,7 @@
 <img align="1536" height="1024" alt="hehe!-Photoroom" src="https://github.com/user-attachments/assets/4aa8a814-536c-4689-8029-3defaccf78d7" />
 
 <p align="right"> 
-<img align="500" height="1000" alt="sharky boyalı" src="https://github.com/user-attachments/assets/874de16a-b8dc-40eb-a037-8f1f13f470fd" />
+<img align="200" height="500" alt="sharky boyalı" src="https://github.com/user-attachments/assets/874de16a-b8dc-40eb-a037-8f1f13f470fd" />
 <p align="left"> 
 <span style="color:ffc8e5;">𝓌𝟸𝒾 !! </span>
 
