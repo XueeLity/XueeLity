@@ -2,7 +2,7 @@
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
 <p align="center">
 <img align="50" height="50" alt="mini1" src="https://github.com/user-attachments/assets/566b46c3-e309-4bfd-aa20-af7d4551aeca" />
- <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=#86ecf4&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=86ecf4&style=for-the-badge">
 <img align="50" height="50" alt="mini2" src="https://github.com/user-attachments/assets/e9ec8c35-6d3e-4cc3-a6b9-1b24ac68abff" />
 
 <p align="center"> 
