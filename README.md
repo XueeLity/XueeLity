@@ -1,9 +1,10 @@
 <p align="center"> 
   ꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂
 <p align="center">
-<img align="50" height="50" alt="pembe 2" src="https://github.com/user-attachments/assets/6ef13dc3-06ba-478c-9e79-4c577e408649" />
-  <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=ffc8e5&style=for-the-badge">
-  <img align="50" height="50" alt="pembe 1" src="https://github.com/user-attachments/assets/74564b1d-f0bf-4e30-9e2a-334f7d905da8" />
+<img align="50" height="50" alt="mini1" src="https://github.com/user-attachments/assets/566b46c3-e309-4bfd-aa20-af7d4551aeca" />
+ <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=#86ecf4&style=for-the-badge">
+<img align="50" height="50" alt="mini2" src="https://github.com/user-attachments/assets/e9ec8c35-6d3e-4cc3-a6b9-1b24ac68abff" />
+
 <p align="center"> 
 <img align="1080" height="1000" alt="DADAAA" src="https://github.com/user-attachments/assets/b05eae60-3797-4045-9a9a-6e4e4d0817f3" />
 <p align="right"> 
