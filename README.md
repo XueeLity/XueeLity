@@ -11,7 +11,7 @@
 <p align="right"> 
 <img align="200" height="500" alt="sharky boyalı" src="https://github.com/user-attachments/assets/874de16a-b8dc-40eb-a037-8f1f13f470fd" />
 <p align="left"> 
-<span style="color:ffc8e5;">𝓌𝟸𝒾 !! </span>
+<span style="color:86E4;">𝓌𝟸𝒾 !! </span>
 
 
 
