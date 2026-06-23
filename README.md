@@ -5,9 +5,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=86ecf4&style=for-the-badge">
 <p align="center"> 
-
-<p align="right"> 
-  <img align="200" height="500" alt="tali" src="https://github.com/user-attachments/assets/25bfdae0-a30d-4a0b-949f-340d7654ef80" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="wer.png" width="150"/>
+    </td>
+    <td valign="top" align="right">
+      <img src="talu.png" width="400"/>
+    </td>
+  </tr>
+</table>
 <p align="right"> <img align="200" height="500" alt="patis" src="https://github.com/user-attachments/assets/b99cf3b4-c335-4d9f-b0ae-f859a027aa15" />
 ">𝓌𝟸𝒾 !!
 
