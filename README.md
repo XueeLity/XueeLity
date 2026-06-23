@@ -8,5 +8,4 @@
   
 <p align="right"> <img align="200" height="500" alt="patis" src="https://github.com/user-attachments/assets/b99cf3b4-c335-4d9f-b0ae-f859a027aa15" />
 ">𝓌𝟸𝒾 !!
-<img align="1500" height="1890" alt="w2i !!" src="https://github.com/user-attachments/assets/24e33bad-159d-444e-b015-1815c2967add" />
-
+<img align="1500" height="1890" alt="w2a" src="https://github.com/user-attachments/assets/8421648f-0d6a-4beb-a5c4-5fb3ea04362d" />
