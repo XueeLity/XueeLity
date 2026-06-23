@@ -10,4 +10,6 @@
 <p align="center">
   𝒯𝒽𝑜𝓈𝑒 𝐹𝑜𝓊𝓇𝓉𝒽 𝒲𝒾𝓃𝑔 𝒶𝓃𝒹 𝒯𝒽𝓇𝑜𝓃𝑒 𝑜𝒻 𝒢𝓁𝒶𝓈𝓈 𝒷𝑜𝑜𝓀𝓈 𝒽𝒶𝓋𝑒 𝒶 𝓈𝓅𝑒𝒸𝒾𝒶𝓁 𝓅𝓁𝒶𝒸𝑒 𝒾𝓃 𝓂𝓎 𝒽𝑒𝒶𝓇𝓉.𝓉𝒽𝑒𝓎’𝓇𝑒 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝑒 𝒻𝓇..𝓃𝑜 𝑜𝓃𝑒 𝒸𝒶𝓃 𝒸𝒽𝒶𝓃𝑔𝑒 𝓂𝓎 𝓂𝒾𝓃𝒹.𝒯𝒽𝑒𝓎’𝓇𝑒 𝒶 𝓅𝒾𝑒𝒸𝑒 𝑜𝒻 𝓂𝓎 𝒽𝑒𝒶𝓇𝓉 𝓃𝑔𝓁
 <p align="center">
+<img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
+<p align="center">
 𝓲𝓵𝓵 𝓼𝓵𝓮𝓮𝓹 𝔀𝓱𝓲𝓵𝓮 𝓾 𝓭𝓻𝓲𝓿𝓮! <3
