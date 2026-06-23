@@ -7,11 +7,13 @@
 <p align="center"> 
 <table>
   <tr>
-    <td valign="top">
-      <img src="wer.png" width="150"/>
+    <td valign="top"align="left">>
+      <img src="1080" height="1350" alt="wer" src="https://github.com/user-attachments/assets/acae244f-91c6-40c7-8692-f22854c17b27" />
+" width="150"/>
     </td>
     <td valign="top" align="right">
-      <img src="talu.png" width="400"/>
+      <img src="1080" height="1350" alt="talu" src="https://github.com/user-attachments/assets/68a8596b-8a42-4025-8a99-d6df14606c1c" />
+" width="400"/>
     </td>
   </tr>
 </table>
