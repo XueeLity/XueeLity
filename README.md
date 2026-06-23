@@ -13,4 +13,4 @@
 <p align="center">
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="center">
-𝓲𝓵𝓵 𝓼𝓵𝓮𝓮𝓹 𝔀𝓱𝓲𝓵𝓮 𝓾 𝓭𝓻𝓲𝓿𝓮! <3
+𝓲𝓵𝓵 𝓼𝓵𝓮𝓮𝓹 𝔀𝓱𝓲𝓵𝓮 𝓾 𝓭𝓻𝓲𝓿𝓮!@dromyy <3
