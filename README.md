@@ -14,4 +14,6 @@
 <p align="center">
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="center">
-𝓲𝓵𝓵 𝓼𝓵𝓮𝓮𝓹 𝔀𝓱𝓲𝓵𝓮 𝓾 𝓭𝓻𝓲𝓿𝓮! <3
+''𝓭𝓸 𝓷𝓸𝓽 𝓮𝓷𝓽𝓮𝓻'' 𝓲𝓼 𝔀𝓻𝓲𝓽𝓽𝓮𝓷 𝓸𝓷 𝓽𝓱𝓮 𝓭𝓸𝓸𝓻𝔀𝓪𝔂.
+  𝓦𝓱𝔂 𝓬𝓪𝓷'𝓽 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮 𝓳𝓾𝓼𝓽 𝓰𝓸 𝓪𝔀𝓪𝔂?
+  𝓔𝔁𝓹𝓮𝓬𝓽 𝓾, 𝓾 𝓬𝓪𝓷 𝓼𝓽𝓪𝔂.! <3
