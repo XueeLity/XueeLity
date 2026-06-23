@@ -10,6 +10,7 @@
   <img align="200" height="500" alt="tali" src="https://github.com/user-attachments/assets/25bfdae0-a30d-4a0b-949f-340d7654ef80" />
 <span style="color:86E4;">𝓌𝟸𝒾 !! </span>
 
+<p align="right"> <img align="150" height="250" alt="patis" src="https://github.com/user-attachments/assets/b99cf3b4-c335-4d9f-b0ae-f859a027aa15" />
 
 
 
