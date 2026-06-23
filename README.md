@@ -5,18 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=86ecf4&style=for-the-badge">
 <p align="center"> 
-<table>
-  <tr>
-    <td valign="top"align="left">>
-      <img src="1080" height="1350" alt="wer" src="https://github.com/user-attachments/assets/acae244f-91c6-40c7-8692-f22854c17b27" />
-" width="150"/>
-    </td>
-    <td valign="top" align="right">
-      <img src="1080" height="1350" alt="talu" src="https://github.com/user-attachments/assets/68a8596b-8a42-4025-8a99-d6df14606c1c" />
-" width="400"/>
-    </td>
-  </tr>
-</table>
+<img align="1080" height="1350" alt="up" src="https://github.com/user-attachments/assets/50e72508-0165-447d-867d-95bdebbd9d4f" />
 <p align="right"> <img align="200" height="500" alt="patis" src="https://github.com/user-attachments/assets/b99cf3b4-c335-4d9f-b0ae-f859a027aa15" />
 ">𝓌𝟸𝒾 !!
 
