@@ -3,7 +3,7 @@
 <p align="left">
 <p align="center">
   <img align="50" height="50" alt="px2png" src="https://github.com/user-attachments/assets/b9f4365d-0dd9-4ead-bafe-ae3924569876" />
- <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=c8c8c8&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=red&style=for-the-badge">
 <p align="center"> 
 <img width="2304" height="1628" alt="deneme" src="https://github.com/user-attachments/assets/4a2d8247-715f-419d-a399-ca7794cf4ee0" />
 <p align="center"> 𝓌𝟸𝒾 !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ•
