@@ -17,7 +17,15 @@
 ''𝓭𝓸 𝓷𝓸𝓽 𝓮𝓷𝓽𝓮𝓻'' 𝓲𝓼 𝔀𝓻𝓲𝓽𝓽𝓮𝓷 𝓸𝓷 𝓽𝓱𝓮 𝓭𝓸𝓸𝓻𝔀𝓪𝔂.
   𝓦𝓱𝔂 𝓬𝓪𝓷'𝓽 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮 𝓳𝓾𝓼𝓽 𝓰𝓸 𝓪𝔀𝓪𝔂?
   𝓔𝔁𝓹𝓮𝓬𝓽 𝓾, 𝓾 𝓬𝓪𝓷 𝓼𝓽𝓪𝔂.! <3
+<table>
+  <tr>
+    <td align="left">
+      <img src=<img align="400" height="255" alt="Akatsuki no Yona" src="https://github.com/user-attachments/assets/2871f3dc-3c37-4bc7-8ca7-5af727b4b5b1" />width="400" />
+    </td>
+    <td align="right">
+      <img src=<img align="540" height="298" alt="yonahak" src="https://github.com/user-attachments/assets/478d34da-89f0-4c54-8a10-21b7871e7d71" /> width="400" />
+    </td>
+  </tr>
+</table>
 
-<p align=left<img align="500" height="255" alt="Akatsuki no Yona" src="https://github.com/user-attachments/assets/707e8ddb-64e5-4b34-8c71-4344466c1749" />
-<p align=left<img align="600" height="255" alt="yonahak" src="https://github.com/user-attachments/assets/97872fce-5989-4326-a464-ffa342dcf598" />
 
