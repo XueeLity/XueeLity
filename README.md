@@ -17,12 +17,7 @@
 ''𝓭𝓸 𝓷𝓸𝓽 𝓮𝓷𝓽𝓮𝓻'' 𝓲𝓼 𝔀𝓻𝓲𝓽𝓽𝓮𝓷 𝓸𝓷 𝓽𝓱𝓮 𝓭𝓸𝓸𝓻𝔀𝓪𝔂.
   𝓦𝓱𝔂 𝓬𝓪𝓷'𝓽 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮 𝓳𝓾𝓼𝓽 𝓰𝓸 𝓪𝔀𝓪𝔂?
   𝓔𝔁𝓹𝓮𝓬𝓽 𝓾, 𝓾 𝓬𝓪𝓷 𝓼𝓽𝓪𝔂.! <3
-XueeLity/
-│── README.md
-└── gifs/
-    ├── akatsuki.gif
-    └── yonahak.gif
-    <table>
+   <table>
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/XueeLity/XueeLity/main/gifs/akatsuki.gif" width="400" alt="Akatsuki no Yona">
