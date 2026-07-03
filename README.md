@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td align="left">
-      <img src=<img align="400" height="255" alt="Akatsuki no Yona" src="https://github.com/user-attachments/assets/2871f3dc-3c37-4bc7-8ca7-5af727b4b5b1" />width="400" />
+      <img src=<img align="400" height="255" alt="Akatsuki no Yona" src="https://github.com/user-attachments/assets/2871f3dc-3c37-4bc7-8ca7-5af727b4b5b1"
     </td>
     <td align="right">
-      <img src=<img align="540" height="298" alt="yonahak" src="https://github.com/user-attachments/assets/478d34da-89f0-4c54-8a10-21b7871e7d71" /> width="400" />
+      <img src=<img align="400" height="255" alt="yonahak" src="https://github.com/user-attachments/assets/478d34da-89f0-4c54-8a10-21b7871e7d71"
     </td>
   </tr>
 </table>
