@@ -18,5 +18,4 @@
   𝓦𝓱𝔂 𝓬𝓪𝓷'𝓽 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮 𝓳𝓾𝓼𝓽 𝓰𝓸 𝓪𝔀𝓪𝔂?
   𝓔𝔁𝓹𝓮𝓬𝓽 𝓾, 𝓾 𝓬𝓪𝓷 𝓼𝓽𝓪𝔂.! <3
 <img align="500" height="255" alt="Akatsuki no Yona" src="https://github.com/user-attachments/assets/707e8ddb-64e5-4b34-8c71-4344466c1749" />
-<img align="500" height="255" alt="image" src="https://github.com/user-attachments/assets/f3374c03-feca-495a-97af-3ff7424df9fd" />
-
+<img align="540" height="298" alt="yonahak" src="https://github.com/user-attachments/assets/97872fce-5989-4326-a464-ffa342dcf598" />
