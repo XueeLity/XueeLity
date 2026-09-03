@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-      <img src="./Akatsuki no Yona.gif" width="500">
+      <img src="./Akatsuki no Yona.gif" width="450">
     </td>
     <td>
       <img src="./yonahak.gif" width="400">
