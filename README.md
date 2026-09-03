@@ -17,7 +17,8 @@
 ''𝓭𝓸 𝓷𝓸𝓽 𝓮𝓷𝓽𝓮𝓻'' 𝓲𝓼 𝔀𝓻𝓲𝓽𝓽𝓮𝓷 𝓸𝓷 𝓽𝓱𝓮 𝓭𝓸𝓸𝓻𝔀𝓪𝔂.
   𝓦𝓱𝔂 𝓬𝓪𝓷'𝓽 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮 𝓳𝓾𝓼𝓽 𝓰𝓸 𝓪𝔀𝓪𝔂?
   𝓔𝔁𝓹𝓮𝓬𝓽 𝓾, 𝓾 𝓬𝓪𝓷 𝓼𝓽𝓪𝔂.! <3
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=808080&center=true&vCenter=true&width=250&lines=''𝓭𝓸+𝓷𝓸𝓽+𝓮𝓷𝓽𝓮𝓻''+𝓲𝓼+𝔀𝓻𝓲𝓽𝓽𝓮𝓷+𝓸𝓷+𝓽𝓱𝓮+𝓭𝓸𝓸𝓻𝔀𝓪𝔂.+𝓦𝓱𝔂+𝓬𝓪𝓷'𝓽+𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮+𝓳𝓾𝓼𝓽+𝓰𝓸+𝓪𝔀𝓪𝔂?+𝓔𝔁𝓹𝓮𝓬𝓽+𝓾,+𝓾+𝓬𝓪𝓷+𝓼𝓽𝓪𝔂.!+<3">
+    <p align="center">   
+<img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=10&duration=3000&pause=500&color=808080&center=true&vCenter=true&width=250&lines=''𝓭𝓸+𝓷𝓸𝓽+𝓮𝓷𝓽𝓮𝓻''+𝓲𝓼+𝔀𝓻𝓲𝓽𝓽𝓮𝓷+𝓸𝓷+𝓽𝓱𝓮+𝓭𝓸𝓸𝓻𝔀𝓪𝔂.+𝓦𝓱𝔂+𝓬𝓪𝓷'𝓽+𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮+𝓳𝓾𝓼𝓽+𝓰𝓸+𝓪𝔀𝓪𝔂?+𝓔𝔁𝓹𝓮𝓬𝓽+𝓾,+𝓾+𝓬𝓪𝓷+𝓼𝓽𝓪𝔂.!+<3">
 <table>
   <tr>
     <td>
