@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=c8c8c8&style=for-the-badge">
 <p align="center"> 
 <img src="./grey.png" width=1000
-<p align="center"> 𝓌𝟸𝒾 !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ•
+<p align="center"> 𝓌𝟸𝒾 enc !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ•
 <p align="center">
   𝑏𝑒 𝑡ℎ𝑒 𝑳𝑰𝑮𝑯𝑻
 <p align="center">
