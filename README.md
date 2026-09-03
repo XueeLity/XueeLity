@@ -28,4 +28,4 @@
   </tr>
 </table>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=500&color=808080&center=true&vCenter=true&width=250&lines=be+the+light!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=808080&center=true&vCenter=true&width=250&lines=be+the+light!">
