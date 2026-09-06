@@ -15,4 +15,4 @@
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="center">
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=300&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=350&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
