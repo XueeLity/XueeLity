@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=c8c8c8&style=for-the-badge">
 <p align="center"> 
 <img src="./xxuee...png" width=400
-<p align="center"> 𝓌𝟸𝒾 enc !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ• 𝑏𝑒 𝑡ℎ𝑒 𝑳𝑰𝑮𝑯𝑻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=350&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
+<p align="center"> 𝓌𝟸𝒾 enc !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ•     𝑏𝑒 𝑡ℎ𝑒 𝑳𝑰𝑮𝑯𝑻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=350&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
 <p align="center">
   𝑏𝑒 𝑡ℎ𝑒 𝑳𝑰𝑮𝑯𝑻
 <p align="center">
