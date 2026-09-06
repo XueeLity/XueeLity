@@ -14,6 +14,5 @@
 <p align="center">
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="center">
- <img src="<3"
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=808080&center=true&vCenter=true&width=250&lines=be+the+light!">
