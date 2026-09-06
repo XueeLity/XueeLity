@@ -5,7 +5,7 @@
   <img align="50" height="50" alt="px2png" src="https://github.com/user-attachments/assets/b9f4365d-0dd9-4ead-bafe-ae3924569876" />
  <img src="https://komarev.com/ghpvc/?username=XueeLity&label=𝘩𝘰𝘭𝘢!&color=c8c8c8&style=for-the-badge">
 <p align="center"> 
-<img src="./xxuee...png" width=500
+<img src="./xxuee...png" width=250
 <p align="center"> 𝓌𝟸𝒾 enc !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ• <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=350&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
 <p align="center">
   𝑏𝑒 𝑡ℎ𝑒 𝑳𝑰𝑮𝑯𝑻
@@ -14,4 +14,4 @@
 <p align="center">
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="center">
-  "𝒟𝑜 𝓃𝑜𝓉 𝑒𝓃𝓉𝑒𝓇" 𝒾𝓈 𝓌𝓇𝒾𝓉𝓉𝑒𝓃 𝑜𝓃 𝓉𝒽𝑒 𝒹𝑜𝑜𝓇𝓌𝒶𝓎𝒲𝒽𝓎 𝒸𝒶𝓃'𝓉 𝑒𝓋𝑒𝓇𝓎𝑜𝓃𝑒 𝒿𝓊𝓈𝓉 𝑔𝑜 𝒶𝓌𝒶𝓎?ℰ𝓍𝒸𝑒𝓅𝓉 𝓎𝑜𝓊, 𝓎𝑜𝓊 𝒸𝒶𝓃 𝓈𝓉𝒶𝓎.
+  "𝒟𝑜 𝓃𝑜𝓉 𝑒𝓃𝓉𝑒𝓇" 𝒾𝓈 𝓌𝓇𝒾𝓉𝓉𝑒𝓃 𝑜𝓃 𝓉𝒽𝑒 𝒹𝑜𝑜𝓇𝓌𝒶𝓎. 𝒲𝒽𝓎 𝒸𝒶𝓃'𝓉 𝑒𝓋𝑒𝓇𝓎𝑜𝓃𝑒 𝒿𝓊𝓈𝓉 𝑔𝑜 𝒶𝓌𝒶𝓎? ℰ𝓍𝒸𝑒𝓅𝓉 𝓎𝑜𝓊, 𝓎𝑜𝓊 𝒸𝒶𝓃 𝓈𝓉𝒶𝓎.
