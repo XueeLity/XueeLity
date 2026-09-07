@@ -14,6 +14,6 @@
 <p align="center">
 <img width="50" height="50" alt="pixpng" src="https://github.com/user-attachments/assets/1321371d-6c8b-4eb9-b0fc-6c1c62472200" />
 <p align="right">
-<img align="./chibi.png" width=100
+<img align="./chibix.png" width=100
   <p align="right">
 <img align="50" height="100" alt="chibi" src="https://github.com/user-attachments/assets/4e857b9d-a50f-40bf-b105-6e77ee981f7a" />
