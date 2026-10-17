@@ -3,7 +3,7 @@
 <p align="left">
 <p align="center">
   <img align="50" height="50" alt="px2png" src="https://github.com/user-attachments/assets/b9f4365d-0dd9-4ead-bafe-ae3924569876" />
-<img src="https://github-view-counter.vercel.app/api?username=XueeLity&base=1485&label=hola%21&color=77777&style=flat" alt="profile views">
+<img src="https://github-view-counter.vercel.app/api?username=XueeLity&base=1485&label=hola%21&color=c8c8c8&style=flat" alt="profile views">
 <p align="center"> 
 <img src="./yataxu-e.png" width=400
 <p align="center"> 𝓌𝟸𝒾 enc !! :𝟹 𝘋𝘕𝘊 𝘮𝘺 𝘴𝘬𝘪𝘯𝘴. 𝘰𝘳 𝘪𝘭𝘭 𝘦𝘢𝘵 𝘺𝘰𝘶•ˋ◠ˊ• <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=520916&center=true&vCenter=true&width=350&lines=%F0%9D%92%B6+%F0%9D%93%88%F0%9D%93%B8%F0%9D%93%BE%F0%9D%93%B5+%F0%9D%92%BB%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5+%F0%9D%93%B8%F0%9D%92%BB+%F0%9D%93%88%F0%9D%93%BE%F0%9D%93%B7%F0%9D%93%88%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE">
